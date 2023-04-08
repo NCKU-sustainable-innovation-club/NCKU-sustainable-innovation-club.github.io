@@ -39,10 +39,10 @@ hero:
   hero-title: 成大<br>永續放空生活節
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-facebook", link: "https://www.facebook.com/NCKU.SIC" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/nckusic_toast__.__/" }
+  # - { icon: "ti-dribbble", link: "#" }
+  # - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
@@ -75,17 +75,17 @@ work-process:
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
-    image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+  - title: "成大永續創新社"
+    image: "assets/images/team/sic.png"
+    designation: "讓每個人找到自己的永續"
 
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
+  - title: "世界宗教博物館"
+    image: "assets/images/team/mwr.jpg"
+    designation: "尊重每一個信仰，包容每一個族群，博愛每一個生命"
 
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
+  - title: "未來智慧工場"
+    image: "assets/images/team/af.png"
+    designation: "以未來為題, 在成大, 以大學教育的知識傳遞為基準, 凝視日常生活"
 
 #-------------------------------
 # Skills Section
@@ -113,27 +113,44 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: 活動資訊
 experience:
   - {
-      name: Junior UX Designer,
+      name: 開幕講座,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "04/15（六）15:00-16:30",
+      organization: "成大未來館二樓",
     }
   - {
-      name: UX & UI Designer,
+      name: 永續市集,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "05/20 （六）14:00-19:00",
+      organization: "成大未來館前廣場",
     }
   - {
-      name: Senior UI Designer,
+      name: 二手市集,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "05/20 （六）14:00-19:00",
+      organization: "成大未來館二樓",
     }
-
+  - {
+      name: 共好舞台｜永續拼圖,
+      icon: "icon-1.png",
+      date: "05/20 （六）14:00-16:00",
+      organization: "成大未來館三樓",
+    }
+  - {
+      name: 電影座談,
+      icon: "icon-2.png",
+      date: "05/20 （六）14:00-16:00",
+      organization: "成大未來館三樓",
+    }
+  - {
+      name: 放空舞台｜音樂會 x 專家分享,
+      icon: "icon-3.png",
+      date: "05/20 （六）15:00-18:00",
+      organization: "成大未來館前廣場",
+    }
 #-------------------------------
 # Education Section
 
