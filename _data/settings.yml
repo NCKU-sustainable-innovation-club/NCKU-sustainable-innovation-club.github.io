@@ -12,10 +12,10 @@ address: 701, 台南市東區大學路1號
 copyright: Copyright &copy; 2023 Designed by [Howard](https://github.com/How-Wang) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  - { name: 關於我們, link: "/about" }
+  - { name: 活動介紹, link: "/blog" }
+  - { name: 贊助夥伴, link: "/portfolio" }
+  - { name: 聯絡我們, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: 「讓生活永續，讓心靈放空」是本團隊的核心標語，利用生活中的永續來引起內在動機，讓每個人由內而外自主行動，一同打造更好的社會，也藉由靈性的心靈體驗，去內在放空自我，理解「永續」的不同面貌。此次我們舉辦「成大永續放空生活節」，希望藉由橫向與縱向推廣永續相關知識及議題、放空體驗，達到台南市民與學生的永續意識的提升。
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -65,6 +65,10 @@ work-process:
     icon: "assets/images/icons/design.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
+  - title: "Deliver"
+    icon: "assets/images/icons/print.png"
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  
   - title: "Deliver"
     icon: "assets/images/icons/print.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -86,12 +90,25 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: SDGs 分佈量
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: 終結貧窮, color: "#e5243b", value: "90%" }
+  - { name: 清除飢餓, color: "#dda63a", value: "60%" }
+  - { name: 健康與福祉, color: "#4c9f38", value: "80%" }
+  - { name: 優質教育, color: "#c5192d", value: "70%" }
+  - { name: 性別平權, color: "#ff3a21", value: "90%" }
+  - { name: 淨水與衛生, color: "#26bde2", value: "60%" }
+  - { name: 可負擔的潔淨能源, color: "#fcc308", value: "80%" }
+  - { name: 合適的工作與經濟成長, color: "#a21942", value: "70%" }
+  - { name: 工業化、創新及基礎建設, color: "#fd6925", value: "90%" }
+  - { name: 減少不平等, color: "#df1487", value: "60%" }
+  - { name: 永續城鄉, color: "#fd9d24", value: "80%" }
+  - { name: 責任消費及生產, color: "#bf8b2e", value: "70%" }
+  - { name: 氣候行動, color: "#3f7e44", value: "90%" }
+  - { name: 保育海洋生態, color: "#0a97d9", value: "60%" }
+  - { name: 保育陸域生態, color: "#56c02b", value: "80%" }
+  - { name: 和平、正義及健全制度, color: "#00689d", value: "70%" }
+  - { name: 多元夥伴關係, color: "#19486a", value: "70%" }
 
 #-------------------------------
 # Exprerience Section

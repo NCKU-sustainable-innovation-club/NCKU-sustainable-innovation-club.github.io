@@ -2,7 +2,7 @@
 layout: about
 title: 關於我們
 author: 成大永續放空生活節
-image: assets/images/about/author.jpg
+image: assets/images/about/head_pic.png
 signature: assets/images/about/signature.png
 ---
 >「讓生活永續，讓心靈放空」
