@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: 成大永續放空生活節
 logo:
-author: themefisher
+author: 成大永續創新社 x 放空生活節
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: 111b089@gs.ncku.edu.tw
+phone: +886 0935 677 976
+address: 701, 台南市東區大學路1號
+copyright: Copyright &copy; 2023 Designed by [Howard](https://github.com/How-Wang) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: 成大<br>永續放空生活節
 
 social:
   - { icon: "ti-facebook", link: "#" }

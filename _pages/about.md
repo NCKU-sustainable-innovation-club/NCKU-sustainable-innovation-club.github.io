@@ -1,18 +1,16 @@
 ---
 layout: about
-title: About Me
-author: Johnathan Smith
+title: 關於我們
+author: 成大永續放空生活節
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
+>「讓生活永續，讓心靈放空」
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+### 活動緣起
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+成大學生對於「永續」的認識仍停留、侷限於過去的「環保」「綠能」等刻板印象，且對人文方面的議題缺乏認識。本團隊希望鏈結成大內外的資源，以有系統且深入淺出的方式推廣永續相關知識，降低資訊門檻，開拓南台灣永續風潮。本學期有幸與「放空生活節」合作，將原本分別舉辦的成大永續節和放空生活節合併，結合永續發展和放鬆身心的理念，打造一個全新的主題活動，吸引更多的參加者並提高活動影響力，希望可以達到 1+1>2 的功效，一同為成大生、台南市民舉辦一場專屬的永續節。
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+### 活動目標
+
+**「讓生活永續，讓心靈放空」**是本團隊的核心標語，利用生活中的永續來引起內在動機，讓每個人由內而外自主行動，一同打造更好的社會，也藉由靈性的心靈體驗，去內在放空自我，理解「永續」的不同面貌。此次我們舉辦「成大永續放空生活節」，希望藉由橫向與縱向推廣永續相關知識及議題、放空體驗，達到台南市民與學生的永續意識的提升。
