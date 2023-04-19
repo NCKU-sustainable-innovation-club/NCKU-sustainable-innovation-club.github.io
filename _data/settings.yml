@@ -14,7 +14,7 @@ copyright: Copyright &copy; 2023 Designed by [Howard](https://github.com/How-Wan
 menu:
   - { name: 關於我們, link: "/about" }
   - { name: 活動介紹, link: "/blog" }
-  - { name: 贊助夥伴, link: "/portfolio" }
+  - { name: 相關單位, link: "/portfolio" }
   - { name: 聯絡我們, link: "/contact" }
 
 #-------------------------------
@@ -85,7 +85,11 @@ team:
 
   - title: "未來智慧工場"
     image: "assets/images/team/af.jpeg"
-    designation: "以未來為題, 在成大, 以大學教育的知識傳遞為基準, 凝視日常生活"
+    designation: "以未來為題，在成大，以大學教育的知識傳遞為基準，凝視日常生活"
+
+  - title: "SDSN Taiwan"
+    image: "assets/images/team/SDSN.png"
+    designation: "持續統整永續發展相關知識，並在未來十年繼續透過永續發展路徑、數據、政策和創新融資等各面向的努力來實現永續發展解方"
 
 #-------------------------------
 # Skills Section
@@ -206,76 +210,59 @@ experience:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
 
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image: "assets/images/team/af.jpeg"
+    url: "https://www.facebook.com/atelierfutureNCKU/?locale=zh_TW"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image: "assets/images/team/mwr.jpg"
+    url: "https://www.mwr.org.tw/"
+  
+  - image: "assets/images/team/sic.png"
+    url: "https://www.facebook.com/NCKU.SIC/"
 
-  - image: "assets/images/portfolio/item-4.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+  - image: "assets/images/team/SDSN.png"
+    url: "https://sdsn.tw/#/"
+    
+  # - image: "assets/images/portfolio/seemore.jpeg"
+  #   url: "https://www.see-more.com.tw/"
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "主辦單位", type: "organizer" }
+  - { title: "共同合辦", type: "coworker" }
+  - { title: "贊助夥伴", type: "sponsor" }
 
 portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image: "assets/images/team/af.jpeg"
+    url: "https://www.facebook.com/atelierfutureNCKU/?locale=zh_TW"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "organizer"
 
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image: "assets/images/team/sic.png"
+    url: "https://www.facebook.com/NCKU.SIC/"
     portfolio-type:
-      - type: "branding"
+      - type: "organizer"
+  
+  - image: "assets/images/team/mwr.jpg"
+    url: "https://www.mwr.org.tw/"
+    portfolio-type:
+      - type: "organizer"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image: "assets/images/team/SDSN.png"
+    url: "https://sdsn.tw/#/"
     portfolio-type:
-      - type: "illustration"
+      - type: "organizer"
 
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
+  - image: "assets/images/team/350.png"
+    url: "https://gofossilfree.org/taiwan/"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "coworker"
 
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
+  - image: "assets/images/portfolio/seemore.jpeg"
+    url: "https://www.see-more.com.tw/"
     portfolio-type:
-      - type: "illustration"
+      - type: "sponsor"
 
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
