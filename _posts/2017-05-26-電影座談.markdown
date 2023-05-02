@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  電影座談
-date:   2017-05-26 11:05:55 +0300
-image:  /assets/images/blog/post-5.jpg
-author: 成大永續創新社
+date:   2022-05-01 13:05:55 +0300
+image:  assets/images/blog/電影放映.jpeg
+author: 350 Taiwan
 ---
 
 **播放精選環保電影，並辦理映後座談，讓閱聽人充分理解環保永續。**

@@ -79,7 +79,7 @@ team:
     image: "assets/images/team/sic.png"
     designation: "讓每個人找到自己的永續"
 
-  - title: "世界宗教博物館"
+  - title: "世界宗教博物館發展基金會"
     image: "assets/images/team/mwr.jpg"
     designation: "尊重每一個信仰，包容每一個族群，博愛每一個生命"
 
@@ -232,9 +232,9 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "主辦單位", type: "organizer" }
-  - { title: "共同合辦", type: "coworker" }
+  - { title: "主辦合辦單位", type: "organizer" }
   - { title: "贊助夥伴", type: "sponsor" }
+  - { title: "相關活動", type: "campaign" }
 
 portfolio-items:
   - image: "assets/images/team/af.jpeg"
@@ -265,7 +265,7 @@ portfolio-items:
   - image: "assets/images/team/350.png"
     url: "https://gofossilfree.org/taiwan/"
     portfolio-type:
-      - type: "coworker"
+      - type: "organizer"
 
   - image: "assets/images/portfolio/seemore.jpeg"
     url: "https://www.see-more.com.tw/"
@@ -291,6 +291,23 @@ portfolio-items:
     url: "https://www.imcoffee.store/"
     portfolio-type:
       - type: "sponsor"
+
+  - image: "assets/images/blog/放空運動.jpeg"
+    url: "https://www.mwr.org.tw/xmdoc?xsmsid=0M104584573543620515"
+    portfolio-type:
+      - type: "campaign"
+
+  - image: "assets/images/blog/靈魂休息室完整版.jpg"
+    url: "https://podcasts.apple.com/tw/podcast/s2-ep26-%E6%B0%B8%E7%BA%8C%E6%94%BE%E7%A9%BA%E7%94%9F%E6%B4%BB%E7%AF%80-%E6%94%BE%E7%A9%BA%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E8%AE%8A%E8%81%B0%E6%98%8E-%E4%B8%80%E8%B5%B7%E4%BE%86%E6%88%90%E5%A4%A7%E6%94%BE%E7%A9%BA/id1642328511?i=1000611366103"
+    portfolio-type:
+      - type: "campaign"
+
+  - image: "assets/images/portfolio/世界宗教會議前行活動.png"
+    url: "https://podcasts.apple.com/tw/podcast/s2-ep26-%E6%B0%B8%E7%BA%8C%E6%94%BE%E7%A9%BA%E7%94%9F%E6%B4%BB%E7%AF%80-%E6%94%BE%E7%A9%BA%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E8%AE%8A%E8%81%B0%E6%98%8E-%E4%B8%80%E8%B5%B7%E4%BE%86%E6%88%90%E5%A4%A7%E6%94%BE%E7%A9%BA/id1642328511?i=1000611366103"
+    portfolio-type:
+      - type: "campaign"
+
+ 
 #-------------------------------
 # Testimonials Section
 

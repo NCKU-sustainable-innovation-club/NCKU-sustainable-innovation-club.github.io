@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  共好舞台｜永續拼圖
-date:   2017-05-26 12:05:55 +0300
-image:  /assets/images/blog/post-4.jpg
+date:   2023-05-01 13:06:55 +0300
+image:  assets/images/blog/共好banner.jpeg
 author: 成大永續創新社
 ---
 

@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  開幕講座
-date:   2017-05-26 15:05:55 +0300
-image:  /assets/images/blog/post-5.jpg
+date:   2023-05-01 15:07:55 +0300
+image:  assets/images/blog/講座標語政均圖.jpeg
 author: 成大永續創新社
 ---
 
 **由「放空生活節」總召講座分享**
 
->分享「放空生活節」的意義與價值
+> 分享「放空生活節」的意義與價值
 藉由「放空運動」的故事-讓與會者理解放空生活節的脈絡與源起。
 
 ![future space](/assets/images/about/head_pic.png)
