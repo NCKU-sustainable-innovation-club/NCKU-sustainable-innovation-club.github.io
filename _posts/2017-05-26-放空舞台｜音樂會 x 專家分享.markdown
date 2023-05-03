@@ -3,7 +3,7 @@ layout: post
 title:  放空舞台｜音樂會 x 專家分享
 date:   2023-05-01 13:05:55 +0300
 image:  assets/images/blog/放空運動.jpeg
-aauthor: 成大永續創新社
+aauthor: 世界宗教博物館發展基金會、GFLP
 ---
 
 # 放空運動

@@ -292,20 +292,36 @@ portfolio-items:
     portfolio-type:
       - type: "sponsor"
 
-  - image: "assets/images/blog/放空運動.jpeg"
-    url: "https://www.mwr.org.tw/xmdoc?xsmsid=0M104584573543620515"
+  - image: "assets/images/portfolio/永循會.png"
+    url: "http://www.sceda.org.tw/"
+    portfolio-type:
+      - type: "sponsor"
+
+  - image: "assets/images/portfolio/靈性倡議.jpeg"
+    url: "https://www.surveycake.com/s/ygn6w"
     portfolio-type:
       - type: "campaign"
+
+  - image: "assets/images/portfolio/世界宗教會議前行活動.png"
+    url: "https://parliamentofreligions.org/parliament/2023-chicago/2023-pre-parliament-events/"
+    portfolio-type:
+      - type: "campaign"
+
+  - image: "assets/images/portfolio/G7.png"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLScdtpNXNijJpJKhdz-00_v64HFXAG34WOwwU5eny2FfmMI26w/viewform"
+    portfolio-type:
+      - type: "campaign" 
 
   - image: "assets/images/blog/靈魂休息室完整版.jpg"
     url: "https://podcasts.apple.com/tw/podcast/s2-ep26-%E6%B0%B8%E7%BA%8C%E6%94%BE%E7%A9%BA%E7%94%9F%E6%B4%BB%E7%AF%80-%E6%94%BE%E7%A9%BA%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E8%AE%8A%E8%81%B0%E6%98%8E-%E4%B8%80%E8%B5%B7%E4%BE%86%E6%88%90%E5%A4%A7%E6%94%BE%E7%A9%BA/id1642328511?i=1000611366103"
     portfolio-type:
       - type: "campaign"
 
-  - image: "assets/images/portfolio/世界宗教會議前行活動.png"
-    url: "https://podcasts.apple.com/tw/podcast/s2-ep26-%E6%B0%B8%E7%BA%8C%E6%94%BE%E7%A9%BA%E7%94%9F%E6%B4%BB%E7%AF%80-%E6%94%BE%E7%A9%BA%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E8%AE%8A%E8%81%B0%E6%98%8E-%E4%B8%80%E8%B5%B7%E4%BE%86%E6%88%90%E5%A4%A7%E6%94%BE%E7%A9%BA/id1642328511?i=1000611366103"
+  - image: "assets/images/blog/放空運動.jpeg"
+    url: "https://www.mwr.org.tw/xmdoc?xsmsid=0M104584573543620515"
     portfolio-type:
       - type: "campaign"
+
 
  
 #-------------------------------
