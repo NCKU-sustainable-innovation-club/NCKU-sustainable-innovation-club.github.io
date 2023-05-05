@@ -292,8 +292,13 @@ portfolio-items:
     portfolio-type:
       - type: "sponsor"
 
-  - image: "assets/images/portfolio/永循會.png"
+  - image: "assets/images/portfolio/永續循環經濟發展協進會.jpg"
     url: "http://www.sceda.org.tw/"
+    portfolio-type:
+      - type: "sponsor"
+
+  - image: "assets/images/portfolio/成信實業.jpg"
+    url: "https://transcene.com.tw/"
     portfolio-type:
       - type: "sponsor"
 
