@@ -322,6 +322,11 @@ portfolio-items:
     portfolio-type:
       - type: "campaign"
 
+  - image: "assets/images/portfolio/永循會QrCode.jpeg"
+    url: ""
+    portfolio-type:
+      - type: "campaign"
+
   - image: "assets/images/blog/放空運動.jpeg"
     url: "https://www.mwr.org.tw/xmdoc?xsmsid=0M104584573543620515"
     portfolio-type:
