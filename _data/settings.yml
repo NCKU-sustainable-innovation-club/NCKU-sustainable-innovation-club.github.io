@@ -139,25 +139,25 @@ experience:
       name: 二手市集,
       icon: "icon-3.png",
       date: "05/20 （六）14:00-19:00",
-      organization: "成大未來館二樓",
+      organization: "成大未來館二樓 未來進行室",
     }
   - {
       name: 共好舞台｜永續拼圖,
       icon: "icon-1.png",
       date: "05/20 （六）14:00-16:00",
-      organization: "成大未來館三樓",
+      organization: "成大未來館三樓 未來講堂",
     }
   - {
       name: 電影座談,
       icon: "icon-2.png",
-      date: "05/20 （六）16:00-19:00",
-      organization: "成大未來館二樓",
+      date: "05/20 （六）14:00-16:00",
+      organization: "成大未來館二樓 階梯教室",
     }
   - {
       name: 放空舞台｜音樂會 x 專家分享,
       icon: "icon-3.png",
-      date: "05/20 （六）15:00-18:00",
-      organization: "成大未來館三樓",
+      date: "05/20 （六）16:00-19:00",
+      organization: "成大未來館三樓 未來講堂",
     }
 #-------------------------------
 # Education Section
