@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/2022/05/01/%E7%8D%A8%E7%AB%8B%E6%9B%B8%E5%BA%97/</loc>
+<lastmod>2022-05-01T18:05:55+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/2022/05/01/%E9%9B%BB%E5%BD%B1%E5%BA%A7%E8%AB%87/</loc>
 <lastmod>2022-05-01T18:05:55+08:00</lastmod>
 </url>
