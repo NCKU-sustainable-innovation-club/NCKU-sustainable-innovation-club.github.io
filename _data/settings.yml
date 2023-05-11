@@ -80,7 +80,7 @@ team:
     designation: "讓每個人找到自己的永續"
 
   - title: "世界宗教博物館發展基金會"
-    image: "assets/images/team/white.png"
+    image: "assets/images/team/mwrdf.png"
     designation: "尊重每一個信仰，包容每一個族群，博愛每一個生命"
 
   - title: "未來智慧工場"
@@ -224,7 +224,7 @@ portfolio-home-items:
   - image: "assets/images/team/af.jpeg"
     url: "https://www.facebook.com/atelierfutureNCKU/?locale=zh_TW"
 
-  - image: "assets/images/team/white.png"
+  - image: "assets/images/team/mwrdf.png"
     url: "https://www.mwr.org.tw/"
   
   - image: "assets/images/team/sic.png"
@@ -253,7 +253,7 @@ portfolio-items:
     portfolio-type:
       - type: "organizer"
   
-  - image: "assets/images/team/white.png"
+  - image: "assets/images/team/mwrdf.png"
     url: "https://www.mwr.org.tw/"
     portfolio-type:
       - type: "organizer"
